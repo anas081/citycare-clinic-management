@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OOP project\\ClinicManagmenttry\\ClinicManagment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|d:\\oop project\\clinicmanagmenttry\\clinicmanagment\\dl\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|solutionrelative:dl\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|d:\\oop project\\clinicmanagmenttry\\clinicmanagment\\bl\\clinicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|solutionrelative:bl\\clinicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|d:\\oop project\\clinicmanagmenttry\\clinicmanagment\\bl\\appointmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|solutionrelative:bl\\appointmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|d:\\oop project\\clinicmanagmenttry\\clinicmanagment\\dl\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|solutionrelative:dl\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|d:\\oop project\\clinicmanagmenttry\\clinicmanagment\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|solutionrelative:controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|d:\\oop project\\clinicmanagmenttry\\clinicmanagment\\dl\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|solutionrelative:dl\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|d:\\oop project\\clinicmanagmenttry\\clinicmanagment\\bl\\doctormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|solutionrelative:bl\\doctormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|d:\\oop project\\clinicmanagmenttry\\clinicmanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|d:\\oop project\\clinicmanagmenttry\\clinicmanagment\\dl\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|solutionrelative:dl\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|d:\\oop project\\clinicmanagmenttry\\clinicmanagment\\managementsystemui\\src\\app\\components\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|solutionrelative:managementsystemui\\src\\app\\components\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClinicService.cs",
+              "DocumentMoniker": "D:\\OOP project\\ClinicManagmenttry\\ClinicManagment\\BL\\ClinicService.cs",
+              "RelativeDocumentMoniker": "BL\\ClinicService.cs",
+              "ToolTip": "D:\\OOP project\\ClinicManagmenttry\\ClinicManagment\\BL\\ClinicService.cs",
+              "RelativeToolTip": "BL\\ClinicService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T12:55:36.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "D:\\OOP project\\ClinicManagmenttry\\ClinicManagment\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppointmentsController.cs",
+              "ToolTip": "D:\\OOP project\\ClinicManagmenttry\\ClinicManagment\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T12:55:07.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\OOP project\\ClinicManagmenttry\\ClinicManagment\\DL\\Doctor.cs",
+              "RelativeDocumentMoniker": "DL\\Doctor.cs",
+              "ToolTip": "D:\\OOP project\\ClinicManagmenttry\\ClinicManagment\\DL\\Doctor.cs",
+              "RelativeToolTip": "DL\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T12:53:55.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\OOP project\\ClinicManagmenttry\\ClinicManagment\\DL\\Appointment.cs",
+              "RelativeDocumentMoniker": "DL\\Appointment.cs",
+              "ToolTip": "D:\\OOP project\\ClinicManagmenttry\\ClinicManagment\\DL\\Appointment.cs",
+              "RelativeToolTip": "DL\\Appointment.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T12:53:52.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppointmentManager.cs",
+              "DocumentMoniker": "D:\\OOP project\\ClinicManagmenttry\\ClinicManagment\\BL\\AppointmentManager.cs",
+              "RelativeDocumentMoniker": "BL\\AppointmentManager.cs",
+              "ToolTip": "D:\\OOP project\\ClinicManagmenttry\\ClinicManagment\\BL\\AppointmentManager.cs",
+              "RelativeToolTip": "BL\\AppointmentManager.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T12:53:36.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "D:\\OOP project\\ClinicManagmenttry\\ClinicManagment\\DL\\FileManager.cs",
+              "RelativeDocumentMoniker": "DL\\FileManager.cs",
+              "ToolTip": "D:\\OOP project\\ClinicManagmenttry\\ClinicManagment\\DL\\FileManager.cs",
+              "RelativeToolTip": "DL\\FileManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T12:53:53.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoctorManager.cs",
+              "DocumentMoniker": "D:\\OOP project\\ClinicManagmenttry\\ClinicManagment\\BL\\DoctorManager.cs",
+              "RelativeDocumentMoniker": "BL\\DoctorManager.cs",
+              "ToolTip": "D:\\OOP project\\ClinicManagmenttry\\ClinicManagment\\BL\\DoctorManager.cs",
+              "RelativeToolTip": "BL\\DoctorManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T12:53:46.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\OOP project\\ClinicManagmenttry\\ClinicManagment\\DL\\User.cs",
+              "RelativeDocumentMoniker": "DL\\User.cs",
+              "ToolTip": "D:\\OOP project\\ClinicManagmenttry\\ClinicManagment\\DL\\User.cs",
+              "RelativeToolTip": "DL\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T10:02:47.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "home.component.html",
+              "DocumentMoniker": "D:\\OOP project\\ClinicManagmenttry\\ClinicManagment\\ManagementSystemUI\\src\\app\\components\\home\\home.component.html",
+              "RelativeDocumentMoniker": "ManagementSystemUI\\src\\app\\components\\home\\home.component.html",
+              "ToolTip": "D:\\OOP project\\ClinicManagmenttry\\ClinicManagment\\ManagementSystemUI\\src\\app\\components\\home\\home.component.html",
+              "RelativeToolTip": "ManagementSystemUI\\src\\app\\components\\home\\home.component.html",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-06-08T19:30:06.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OOP project\\ClinicManagmenttry\\ClinicManagment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\OOP project\\ClinicManagmenttry\\ClinicManagment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T12:18:40.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

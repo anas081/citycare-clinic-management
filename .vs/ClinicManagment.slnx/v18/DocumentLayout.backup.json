@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OOP project\\ClinicManagment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|d:\\oop project\\clinicmanagment\\dl\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|solutionrelative:dl\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|d:\\oop project\\clinicmanagment\\managementsystemui\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|solutionrelative:managementsystemui\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|d:\\oop project\\clinicmanagment\\managementsystemui\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|solutionrelative:managementsystemui\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|d:\\oop project\\clinicmanagment\\managementsystemui\\.prettierrc||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|solutionrelative:managementsystemui\\.prettierrc||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|d:\\oop project\\clinicmanagment\\managementsystemui\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|solutionrelative:managementsystemui\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|d:\\oop project\\clinicmanagment\\managementsystemui\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|solutionrelative:managementsystemui\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|d:\\oop project\\clinicmanagment\\managementsystemui\\src\\app\\components\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|solutionrelative:managementsystemui\\src\\app\\components\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|d:\\oop project\\clinicmanagment\\managementsystemui\\src\\app\\components\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|solutionrelative:managementsystemui\\src\\app\\components\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|d:\\oop project\\clinicmanagment\\dl\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|solutionrelative:dl\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|d:\\oop project\\clinicmanagment\\managementsystemui\\src\\app\\components\\admin-dashboard\\admin-dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|solutionrelative:managementsystemui\\src\\app\\components\\admin-dashboard\\admin-dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|d:\\oop project\\clinicmanagment\\managementsystemui\\src\\app\\components\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|solutionrelative:managementsystemui\\src\\app\\components\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|d:\\oop project\\clinicmanagment\\managementsystemui\\dist\\managementsystemui\\browser\\admin\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|solutionrelative:managementsystemui\\dist\\managementsystemui\\browser\\admin\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|d:\\oop project\\clinicmanagment\\managementsystemui\\dist\\managementsystemui\\browser\\login\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|solutionrelative:managementsystemui\\dist\\managementsystemui\\browser\\login\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|d:\\oop project\\clinicmanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD62D94-BBA7-3EE9-5B44-B2DA2BB9358A}|ClinicManagment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "D:\\OOP project\\ClinicManagment\\DL\\FileManager.cs",
+              "RelativeDocumentMoniker": "DL\\FileManager.cs",
+              "ToolTip": "D:\\OOP project\\ClinicManagment\\DL\\FileManager.cs",
+              "RelativeToolTip": "DL\\FileManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T15:55:08.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "D:\\OOP project\\ClinicManagment\\ManagementSystemUI\\.editorconfig",
+              "RelativeDocumentMoniker": "ManagementSystemUI\\.editorconfig",
+              "ToolTip": "D:\\OOP project\\ClinicManagment\\ManagementSystemUI\\.editorconfig",
+              "RelativeToolTip": "ManagementSystemUI\\.editorconfig",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-09T10:06:54.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\OOP project\\ClinicManagment\\ManagementSystemUI\\.gitignore",
+              "RelativeDocumentMoniker": "ManagementSystemUI\\.gitignore",
+              "ToolTip": "D:\\OOP project\\ClinicManagment\\ManagementSystemUI\\.gitignore",
+              "RelativeToolTip": "ManagementSystemUI\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-09T10:06:51.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".prettierrc",
+              "DocumentMoniker": "D:\\OOP project\\ClinicManagment\\ManagementSystemUI\\.prettierrc",
+              "RelativeDocumentMoniker": "ManagementSystemUI\\.prettierrc",
+              "ToolTip": "D:\\OOP project\\ClinicManagment\\ManagementSystemUI\\.prettierrc",
+              "RelativeToolTip": "ManagementSystemUI\\.prettierrc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-09T10:06:47.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\OOP project\\ClinicManagment\\ManagementSystemUI\\package.json",
+              "RelativeDocumentMoniker": "ManagementSystemUI\\package.json",
+              "ToolTip": "D:\\OOP project\\ClinicManagment\\ManagementSystemUI\\package.json",
+              "RelativeToolTip": "ManagementSystemUI\\package.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-09T10:06:36.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\OOP project\\ClinicManagment\\ManagementSystemUI\\README.md",
+              "RelativeDocumentMoniker": "ManagementSystemUI\\README.md",
+              "ToolTip": "D:\\OOP project\\ClinicManagment\\ManagementSystemUI\\README.md",
+              "RelativeToolTip": "ManagementSystemUI\\README.md",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-09T10:06:04.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "login.component.ts",
+              "DocumentMoniker": "D:\\OOP project\\ClinicManagment\\ManagementSystemUI\\src\\app\\components\\login\\login.component.ts",
+              "RelativeDocumentMoniker": "ManagementSystemUI\\src\\app\\components\\login\\login.component.ts",
+              "ToolTip": "D:\\OOP project\\ClinicManagment\\ManagementSystemUI\\src\\app\\components\\login\\login.component.ts",
+              "RelativeToolTip": "ManagementSystemUI\\src\\app\\components\\login\\login.component.ts",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-09T10:04:16.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\OOP project\\ClinicManagment\\DL\\User.cs",
+              "RelativeDocumentMoniker": "DL\\User.cs",
+              "ToolTip": "D:\\OOP project\\ClinicManagment\\DL\\User.cs",
+              "RelativeToolTip": "DL\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T10:02:47.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "admin-dashboard.component.html",
+              "DocumentMoniker": "D:\\OOP project\\ClinicManagment\\ManagementSystemUI\\src\\app\\components\\admin-dashboard\\admin-dashboard.component.html",
+              "RelativeDocumentMoniker": "ManagementSystemUI\\src\\app\\components\\admin-dashboard\\admin-dashboard.component.html",
+              "ToolTip": "D:\\OOP project\\ClinicManagment\\ManagementSystemUI\\src\\app\\components\\admin-dashboard\\admin-dashboard.component.html",
+              "RelativeToolTip": "ManagementSystemUI\\src\\app\\components\\admin-dashboard\\admin-dashboard.component.html",
+              "ViewState": "AgIAAB0BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-06-09T10:01:49.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "login.component.html",
+              "DocumentMoniker": "D:\\OOP project\\ClinicManagment\\ManagementSystemUI\\src\\app\\components\\login\\login.component.html",
+              "RelativeDocumentMoniker": "ManagementSystemUI\\src\\app\\components\\login\\login.component.html",
+              "ToolTip": "D:\\OOP project\\ClinicManagment\\ManagementSystemUI\\src\\app\\components\\login\\login.component.html",
+              "RelativeToolTip": "ManagementSystemUI\\src\\app\\components\\login\\login.component.html",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-06-09T10:00:29.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\OOP project\\ClinicManagment\\ManagementSystemUI\\dist\\ManagementSystemUI\\browser\\admin\\index.html",
+              "RelativeDocumentMoniker": "ManagementSystemUI\\dist\\ManagementSystemUI\\browser\\admin\\index.html",
+              "ToolTip": "D:\\OOP project\\ClinicManagment\\ManagementSystemUI\\dist\\ManagementSystemUI\\browser\\admin\\index.html",
+              "RelativeToolTip": "ManagementSystemUI\\dist\\ManagementSystemUI\\browser\\admin\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-06-09T10:00:00.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\OOP project\\ClinicManagment\\ManagementSystemUI\\dist\\ManagementSystemUI\\browser\\login\\index.html",
+              "RelativeDocumentMoniker": "ManagementSystemUI\\dist\\ManagementSystemUI\\browser\\login\\index.html",
+              "ToolTip": "D:\\OOP project\\ClinicManagment\\ManagementSystemUI\\dist\\ManagementSystemUI\\browser\\login\\index.html",
+              "RelativeToolTip": "ManagementSystemUI\\dist\\ManagementSystemUI\\browser\\login\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-06-09T09:59:32.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "home.component.html",
+              "DocumentMoniker": "D:\\OOP project\\ClinicManagment\\ManagementSystemUI\\src\\app\\components\\home\\home.component.html",
+              "RelativeDocumentMoniker": "ManagementSystemUI\\src\\app\\components\\home\\home.component.html",
+              "ToolTip": "D:\\OOP project\\ClinicManagment\\ManagementSystemUI\\src\\app\\components\\home\\home.component.html",
+              "RelativeToolTip": "ManagementSystemUI\\src\\app\\components\\home\\home.component.html",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-06-08T19:30:06.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OOP project\\ClinicManagment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\OOP project\\ClinicManagment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T12:18:40.551Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
